@@ -4,8 +4,6 @@ This project performs comprehensive Exploratory Data Analysis (EDA) on a student
 📁 Dataset
 File: Placement_Data_Full_Class.csv
 
-Source: [Kaggle or your source]
-
 Features: Age, Gender, SSC/HSC Scores, Degree Type, Family Support, Work Experience, Salary, etc.
 
 📊 Key Analyses
@@ -46,9 +44,6 @@ Open RStudio.
 
 Install required packages:
 
-r
-Copy
-Edit
 install.packages(c("ggplot2", "dplyr", "ggpubr", "hrbrthemes", "viridis"))
 Load the data and run the script.
 
